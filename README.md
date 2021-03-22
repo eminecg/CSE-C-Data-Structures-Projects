@@ -1,2 +1,2 @@
-# -CSE--C-Data-Structures--Projects
+# CSE-C-Data-Structures--Projects
 C Data Structure projects through the university
