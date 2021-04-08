@@ -1,7 +1,9 @@
 # CSE-C-Data-Structures--Projects
 C Data Structure projects through the university
 
+Tree Project:
 
+Constructed BST with alphabetical order and BT with given the frequencies of 50 words in a document.Calculated total ccess time and compared result of each one.Main goal of this project is minimize the total access time.
 
 Binomial Heap project:
 
